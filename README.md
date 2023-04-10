@@ -1,1 +1,1 @@
-# pong_none_class
+Primeiro projeto do curso de desenvolvimento de jogos de Game Maker da None Class.
