@@ -14,8 +14,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_boing",
-  "duration": 0.0,
+  "soundFile": "snd_boing.wav",
+  "duration": 1.734739,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
