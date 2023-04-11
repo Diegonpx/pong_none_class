@@ -1,4 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-vel = 1.5;
+audio_play_sound(snd_background_music, 0, 1);
+
+
+
+
