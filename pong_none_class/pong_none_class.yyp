@@ -9,6 +9,7 @@
     {"id":{"name":"obj_player1","path":"objects/obj_player1/obj_player1.yy",},"order":0,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
     {"id":{"name":"obj_music_control","path":"objects/obj_music_control/obj_music_control.yy",},"order":4,},
+    {"id":{"name":"src_management","path":"scripts/src_management/src_management.yy",},"order":0,},
     {"id":{"name":"obj_player2","path":"objects/obj_player2/obj_player2.yy",},"order":1,},
     {"id":{"name":"snd_boing","path":"sounds/snd_boing/snd_boing.yy",},"order":1,},
     {"id":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},"order":1,},

@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-vel = 1.5;
+vel = 2;
+
+vel_ia = 1.5;
