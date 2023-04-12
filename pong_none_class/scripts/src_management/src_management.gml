@@ -3,3 +3,6 @@
 global.two_players = false;
 
 global.vel_boll = 0;
+
+global.points_player1 = 0;
+global.points_player2 = 0;
