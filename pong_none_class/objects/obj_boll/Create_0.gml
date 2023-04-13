@@ -3,7 +3,7 @@
 
 vel = 2;
 
-inc_vel = 0.1;
+inc_vel = 0.5;
 
 speed = 0;
 

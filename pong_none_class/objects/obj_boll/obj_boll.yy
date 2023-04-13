@@ -6,7 +6,7 @@
     "name": "spr_boll",
     "path": "sprites/spr_boll/spr_boll.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
